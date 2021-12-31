@@ -284,6 +284,62 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameManager
       objectReference: {fileID: 0}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: kingB
+      value: 
+      objectReference: {fileID: 130826, guid: 861e95a585868b643bf2e4a1d0ae63b7, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: kingW
+      value: 
+      objectReference: {fileID: 119820, guid: 9e4e635002b6a524ca896adb28e8e388, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: pawnB
+      value: 
+      objectReference: {fileID: 138226, guid: edd4f3477fd5a8b4599bf6c0dac39f1d, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: pawnW
+      value: 
+      objectReference: {fileID: 104878, guid: 48d5ea4ff810d0e4ea36af7235dd5fd7, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: rookB
+      value: 
+      objectReference: {fileID: 125018, guid: 9d3e9c36668dcfe44b524760a4c3a3b5, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: rookW
+      value: 
+      objectReference: {fileID: 114028, guid: 43ef2ba32fda59c42a1410ea490d494b, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: queenB
+      value: 
+      objectReference: {fileID: 184594, guid: 1f7a3b3d104b8e44cb39f5356ae1d0bb, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: queenW
+      value: 
+      objectReference: {fileID: 103078, guid: 6f38c700bedefe64f8364436528e5c3d, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: bishopB
+      value: 
+      objectReference: {fileID: 196866, guid: a71fd906a2159e247ab4d632e46947db, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: bishopW
+      value: 
+      objectReference: {fileID: 190264, guid: cd05c23b470229c44a8d53d6e86225f6, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: knightB
+      value: 
+      objectReference: {fileID: 196802, guid: b6c7ad354ac474944ba26b2895a59759, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: knightW
+      value: 
+      objectReference: {fileID: 107724, guid: 7248632fb471af143947a88a47eae959, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: squareB
+      value: 
+      objectReference: {fileID: 5751610191314257000, guid: aa2fadf0bf18b3a4496380350df5faa0, type: 3}
+    - target: {fileID: 6539408974102060029, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
+      propertyPath: squareW
+      value: 
+      objectReference: {fileID: 5846601098508579782, guid: cc2f790eefbd08d45ba34194459b7894, type: 3}
     - target: {fileID: 6539408974102060030, guid: 698f0ee827ce1cf41aa4d15b2b3cda72, type: 3}
       propertyPath: m_RootOrder
       value: 2
