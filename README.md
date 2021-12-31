@@ -2,15 +2,12 @@
 
 ## todo:
 
-* comment code
-* set offsets as variables
+* add pieces
+* add movement availibility
 
 ## doing:
 
-
 ## done:
-
-* build board
 
 --------------------
 
