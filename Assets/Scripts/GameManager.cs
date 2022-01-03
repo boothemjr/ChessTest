@@ -104,7 +104,7 @@ public class GameManager : MonoBehaviour
         System.IO.StringReader sr = new StringReader(gameSaveData);
         
         string[,] pieceLocations = new string[boardWidth, boardHeight];
-        for (int x = 0; x < boardWidth; x++)
+        for (int x = boardWidth-1; x >= 0; x--)
         {
             string nextLine = sr.ReadLine();
             for (int y = 0; y < boardHeight; y++)
@@ -120,7 +120,7 @@ public class GameManager : MonoBehaviour
             for (int y = 0; y < boardHeight; y++)
             {
                 GameObject piece = new GameObject();
-                string flag = pieceLocations[x, y];
+                string flag = pieceLocations[y, x];
                 
                 switch (flag)
                 {

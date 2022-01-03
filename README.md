@@ -2,19 +2,17 @@
 
 ## todo:
 
-* add load system for pieces adding
 * add chess numbering
 * add movement availibility
 * add chess notation
+* add additional save features
 
-## doing:
+## bugs:
 
-## done:
+* fix coordinate system
 
 --------------------
 
 ## notes:
 
-* pieces - pawn, rook, bishop, knight, king, queen
-* alternating black/white
-* chess notation King = K, Queen = Q, Bishop = B, Knight = N, Rook = R, Pawn = P
+* piece notation - King = K, Queen = Q, Bishop = B, Knight = N, Rook = R, Pawn = P
